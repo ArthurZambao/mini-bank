@@ -1,4 +1,4 @@
-package br.com.arthurzambao.mini_bank.enums;
+package br.com.arthurzambao.minibank.enums;
 
 public enum TransactionType {
     DEPOSIT,

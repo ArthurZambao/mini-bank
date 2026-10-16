@@ -1,4 +1,4 @@
-package br.com.arthurzambao.mini_bank;
+package br.com.arthurzambao.minibank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
